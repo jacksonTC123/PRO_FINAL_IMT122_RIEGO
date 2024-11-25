@@ -1,7 +1,7 @@
 **Proyecto de Riego Automático por Goteo y Aspersión**  
 
 **integrantes:**
-Jason Cristopher Tarifa Calizaya
+Jason Cristopher Tarifa Calizaya, 
 Sixto Yusep Pantoja Tarraga
 
 **Materia:** Sistemas Embebidos  
