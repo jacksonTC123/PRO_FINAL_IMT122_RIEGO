@@ -1,6 +1,13 @@
 **Proyecto de Riego Automático por Goteo y Aspersión**  
 
+**integrantes:**
+Jason Cristopher Tarifa Calizaya
+Sixto Yusep Pantoja Tarraga
+
 **Materia:** Sistemas Embebidos  
+**Docente:**
+Elmer Alan Cornejo Quito
+
 **Descripción del Proyecto:**  
 El proyecto consiste en el diseño e implementación de un **sistema de riego automático** que utiliza métodos de **goteo** y **aspersión**, dirigido a optimizar el uso de agua y mejorar la eficiencia en el riego de cultivos. Este sistema integra sensores y actuadores controlados mediante un microcontrolador programado para tomar decisiones en función de parámetros ambientales y del estado del suelo.  
 
